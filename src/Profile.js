@@ -4,6 +4,10 @@ const ProfileData = {
     bamdal: {
         name: '밤달', 
         description: '검은 고양이, 너구리 고양이'
+    },
+    bums: {
+        name: '범쓰',
+        description: '킹받게 하는'
     }
 }
 
